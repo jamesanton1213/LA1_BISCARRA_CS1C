@@ -1,5 +1,5 @@
-let firstFavNum = 13;
-let secondFavNum = 5;
+let firstFavNum = 12;
+let secondFavNum = 13;
 
 //this perform the mathematical operators
 let sum = firstFavNum + secondFavNum;
