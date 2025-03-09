@@ -1,6 +1,6 @@
 let isJsProgrammingLangauge = 'true';
 let JsHard = 'false';
-let favNumb = 13; 
+let favNumb = 12; 
 
 console.log(isJsProgrammingLangauge);
 console.log(JsHard);
