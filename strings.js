@@ -1,12 +1,12 @@
-let favActorFirstName = 'Ryan';
-let favActorLastName = 'Reynolds';
+let favActorFirstName = 'Mark';
+let favActorLastName = 'Sinclair';
 let fullName = favActorFirstName + " " + favActorLastName;
 
 let uppercase = favActorFirstName.toUpperCase(); //converting the string into uppercase
 
 let message = `My favorite actor is, ${uppercase}.`;
 
-message += " His best show is Silicon Valley.";
+message += " His best show is Fast and Furious.";
 
 console.log('First Name:', favActorFirstName);
 console.log('Last Name:', favActorLastName);
